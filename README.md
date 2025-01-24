@@ -43,9 +43,11 @@ key.js
     После этого создайте файл key.js в вашем проекте и добавьте в него ваш API-ключ.
 
 Пример файла key.js:
+```javascript
 // key.js
 const API_KEY = "ваш_ключ_API"; // замените на ваш ключ
 export default API_KEY;
+```
 
 Важные заметки / Important Notes
 
@@ -71,7 +73,6 @@ Notes / Заметки
 By following these steps, you can ensure the security of your API key and prevent any unauthorized access to the data.
 
 License:
-
 This project uses the: MIT License [MIT](https://github.com/istbega/MovieFinder/blob/main/LICENSE)
 
 Contact:
