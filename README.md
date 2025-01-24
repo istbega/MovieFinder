@@ -22,6 +22,7 @@ Before using and creating your own version of this website, you will need to:
 2. **Create a `key.js` file** in your project and insert your API key into it.
 
 ### Example of `key.js` file:
+key = "8d2eeffe";
 ```javascript
 // key.js
 const API_KEY = "your_api_key"; // replace with your actual key
