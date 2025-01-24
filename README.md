@@ -26,6 +26,7 @@ Before using and creating your own version of this website, you will need to:
 // key.js
 const API_KEY = "your_api_key"; // replace with your actual key
 export default API_KEY;
+```
 
 Secure your API key:
 Make sure that the key.js file is not exposed in a public repository. Use .gitignore to exclude it from version control.
@@ -52,10 +53,11 @@ export default API_KEY;
 
     Your API key must be protected.
     Do not include key.js in public repositories! Use a .gitignore file to exclude it from version control.
-
+```javascript
 Example of .gitignore file:
 # Exclude the key.js file
 key.js
+```
 
 Notes / Заметки
 
