@@ -81,7 +81,7 @@ By following these steps, you can ensure the security of your API key and preven
 
 
 ## License:
-This project uses the: [MIT]
+This project uses the: [MIT](https://github.com/istbega/MovieFinder/blob/main/LICENSE)
 
 
 To contact the author of the project, write to email behinmaksym@gmail.com
