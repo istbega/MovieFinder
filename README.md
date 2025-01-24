@@ -72,6 +72,9 @@ Notes / Заметки
 
 By following these steps, you can ensure the security of your API key and prevent any unauthorized access to the data.
 
+![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2f91e30eb3350a42513435d33/topics/javascript/javascript.png)
+![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2f91e30eb3350a42513435d33/topics/css/css.png)
+
 License:
 This project uses the: MIT License [MIT](https://github.com/istbega/MovieFinder/blob/main/LICENSE)
 
